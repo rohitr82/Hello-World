@@ -1,2 +1,3 @@
 # Hello-World
-My First Repository
+This is a copy of the master file which I have edited.
+Just experimenting with GitHub.
